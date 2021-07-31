@@ -109,4 +109,4 @@ dist
 sync.sh
 convert.py
 speedtest.py
-
+.speedtest.py.swp
