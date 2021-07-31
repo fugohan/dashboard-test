@@ -107,3 +107,4 @@ dist
 #sync 
 
 sync.sh
+convert.py
